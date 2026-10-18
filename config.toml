@@ -1,0 +1,9 @@
+# Giao diện màu thu: nâu gỗ (chữ), hổ phách (nhấn), nền trắng, thanh bên màu cát.
+# File này tùy chọn: xóa đi thì app vẫn chạy bình thường với giao diện mặc định.
+[theme]
+base = "light"
+primaryColor = "#A55A08"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6EFE2"
+textColor = "#2E2118"
+font = "sans serif"
